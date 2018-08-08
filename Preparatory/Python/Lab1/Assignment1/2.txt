@@ -1,0 +1,8 @@
+Positive features of Python
+1. Simple syntax. Programmer need not worry about data type and operations defined on it.
+2. Easy t learn.
+3. Wide applications, combines the best of C and Java to accomodate systems programming along with object oriented paradigm
+
+Negative features
+1. Slower than C
+
